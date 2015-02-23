@@ -1,0 +1,14 @@
+URL: http://rsm.re/maptimeleaflet
+
+Files: https://github.com/rebekahmonson/leaflet-demo
+
+You need:
+A text editor (I'm using Sublime Text.)
+FTP client (I'm using cyberduck.)
+A web host
+
+
+We will use:
+leafletJS: http://leafletjs.com/
+Leaflet-AJAX plugin: https://github.com/calvinmetcalf/leaflet-ajax
+Miami-Dade Open Data portal: https://opendata.miamidade.gov/
